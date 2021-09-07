@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aidyyah
+- 👋 Hi, I’m @hagarenchain
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript, React and React Native.
 - 💞️ I’m looking to collaborate on ...
